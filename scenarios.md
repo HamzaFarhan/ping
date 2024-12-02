@@ -1,15 +1,73 @@
----
+## Success Metrics
 
-### **Metrics to Track Success**  
-| **Metric**               | **Description**                                                                 | **Success Threshold**                   |
-|--------------------------|----------------------------------------------------------------------------------|-----------------------------------------|
-| **Response Accuracy**     | Recommendations should align with Alice’s low-risk profile.                      | >95% accurate responses.               |
-| **Workflow Efficiency**   | Number of agents involved and time to resolution.                                | <= 3 agents, <2 minutes per query.     |
-| **User Satisfaction**     | Alice’s feedback on clarity and usefulness of advice (simulated).                | >= 4/5 rating.                         |
-| **Cost Efficiency**       | Resource consumption per interaction.                                           | <$0.05 per query.                      |
-| **Compliance Adherence**  | No non-compliant suggestions (tracked in risk/compliance checks).                | 100% adherence.                        |
+### 1. User Engagement Metrics
+- **Conversation Completion Rate**
+  - Percentage of conversations reaching desired outcome
+  - Target: >90% completion rate
+- **User Retention**
+  - Frequency of return users
+  - Average time between interactions
+- **Session Duration**
+  - Average length of user conversations
+  - Number of queries per session
 
----
+### 2. Agent Performance Metrics
+- **Response Accuracy**
+  - Correctness of financial information
+  - Appropriateness of recommendations
+  - Target: >95% accuracy rate
+- **Handoff Efficiency**
+  - Success rate of inter-agent transfers
+  - Time taken for agent transitions
+  - Target: <2 second handoff time
+- **Resolution Time**
+  - Time to complete common queries
+  - Time to escalate complex issues
+  - Target: <5 minutes for standard queries
+
+### 3. Investment Advisory Quality
+- **Recommendation Relevance**
+  - Match between user profile and suggestions
+  - Portfolio performance vs benchmarks
+- **Risk Assessment Accuracy**
+  - Accuracy of risk predictions
+  - Effectiveness of risk mitigation strategies
+- **Compliance Success**
+  - Rate of prevented compliance violations
+  - Accuracy of regulatory guidance
+
+### 4. User Satisfaction Indicators
+- **Feedback Scores**
+  - Post-interaction satisfaction ratings
+  - Net Promoter Score (NPS)
+  - Target: >4.5/5 average rating
+- **Qualitative Feedback**
+  - User comments and suggestions
+  - Reported pain points
+  - Feature requests
+
+### 5. System Reliability
+- **Technical Performance**
+  - System uptime
+  - Response latency
+  - Error rates
+  - Target: 99.9% uptime
+- **Data Accuracy**
+  - Market data freshness
+  - User profile accuracy
+  - Transaction record precision
+
+### 6. Business Impact
+- **Conversion Metrics**
+  - Inquiry to investment ratio
+  - Average investment amount
+  - User acquisition cost
+- **Resource Efficiency**
+  - Human advisor time saved
+  - Cost per interaction
+  - ROI on system implementation
+
+## Scenarios
 
 ### **Persona 1: Alice (New Investor)**  
 

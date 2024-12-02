@@ -1,5 +1,3 @@
-# DreamAI x PoC
-
 ## Proof of Concept: Designing a Multi-Agent LLM Setup for Investor Engagement
 
 ### Objective
